@@ -4,4 +4,4 @@
 # ToDo (Tasks) app
 # E-commerce app
 
-# All apps are integrated APIS
+# All apps are integrated real APIS
