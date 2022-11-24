@@ -4,4 +4,4 @@
 # ToDo (Tasks) app
 # E-commerce app
 
-# all apps are integrated with fake APIS
+# All apps are integrated with fake APIS
